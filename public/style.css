@@ -1,0 +1,27 @@
+
+.body{
+    margin-left: 20px;
+    background-color: #DFD3C3;
+}
+
+h2{
+    color: #973131;
+}
+.form-cnt {
+    display: flex;
+    gap: 10px; /* Space between the forms */
+}
+.chat{
+    background-color: #DFD3C3;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: #C5705D;
+    font-weight: bold;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
